@@ -1,0 +1,38 @@
+[
+    {
+        "actividad": "Musculación",
+        "precio": 2000,
+        "descripcion":"Clases a toda hora!!\nPersonal a toda hora!!!",
+        "ruta_imagen":"../img/musculacion_inscripcion.jpg"
+    },
+    {
+        "actividad": "Spinning",
+        "precio": 2500,
+        "descripcion":"Tenemos 8 clases por día!!!!\nTe las vas a perder???",
+        "ruta_imagen":"../img/spinning_inscripcion.jpg"
+    },
+    {
+        "actividad": "Yoga",
+        "precio": 3000,
+        "descripcion":"Liberate del estrés del día!!\nVení a relajarte y también a ejercitarte",
+        "ruta_imagen":"../img/yoga_inscripcion.jpg"
+    },
+    {
+        "actividad": "Crossfit",
+        "precio": 3500,
+        "descripcion":"La musculación te resulta aburrida?\nAnotete a las clases de Crossfit y divertite!!!",
+        "ruta_imagen":"../img/crossfit_inscripcion.jpg"
+    },
+    {
+        "actividad": "Taekwondo",
+        "precio": 3000,
+        "descripcion":"Queres ejercitarte y aprender un arte marcial?\nHacé las dos cosas!!! Anotate ya!!!",
+        "ruta_imagen":"../img/taekwondo_inscripcion.jpg"
+    },
+    {
+        "actividad": "Pilates",
+        "precio": 4000,
+        "descripcion":"Tonificá tu cuerpo con pilates\nInscribe a nuestras clases !!!",
+        "ruta_imagen":"../img/pilates_inscripcion.jpg"
+    }
+]
